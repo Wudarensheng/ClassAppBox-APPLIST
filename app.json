@@ -1,3 +1,4 @@
+[
 {
   "name": "希沃白板5",
   "version": "最新",
@@ -5,4 +6,29 @@
   "author": "希沃官方",
   "Classification": "白板",
   "icon": "https://e.seewo.com/static/images/logo_en5_48@2x-a896d3e374.png"
-}
+},
+{
+  "name": "希沃视频展台",
+  "version": "最新",
+  "link": "https://e.seewo.com/download/file?code=EasiCamera",
+  "author": "希沃官方",
+  "Classification": "视频展台",
+  "icon": "https://e.seewo.com/static/images/logo_camera_48@2x-77ceecf8ae.png"
+  },
+  {
+      "name": "希沃视频展台（支持非希沃摄像头）",
+      "version": "2.0.10.4229",
+      "link": "https://e.seewo.com/download/file?code=EasiCamera&&version=2.0.10.4229",
+      "author": "希沃官方",
+      "Classification": "视频展台",
+      "icon": "https://e.seewo.com/static/images/logo_camera_48@2x-77ceecf8ae.png"
+  },
+  {
+      "name": "班级优化大师",
+      "version": "最新",
+      "link": "https://e.seewo.com/download/file?code=EasiCare_PC",
+      "author": "希沃官方",
+      "Classification": "辅助工具",
+      "icon": "https://e.seewo.com/static/images/logo_care_48@2x-c589561e80.png"}
+
+]
